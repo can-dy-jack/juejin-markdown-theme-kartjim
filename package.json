@@ -3,7 +3,7 @@
   "version": "0.1.3",
   "description": "掘金主题, a theme of juejin markdown",
   "scripts": {
-    "dev": "npx juejin-theme-devtool juejin.scss"
+    "dev": "npx juejin-theme-devtool kartjim.scss"
   },
   "license": "MIT",
   "dependencies": {
